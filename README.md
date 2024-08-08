@@ -1,16 +1,12 @@
-## Hi there 👋
+## 🖤 Bem vindos ao meu perfil 🤍
+ 😄Meu nome é Wesley Pereira😄
+- 
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript 
+- Utilizo esse espaço para a minha organização e compartilharmento dos seus projetos desenvolvidos
 
-<!--
-**Wesleyjtm/Wesleyjtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- -### Você pode entrar em contato comigo 📧
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 00001132686805sSP@al.educacao.sp.gov.br
+- 
+  []![corinthians-rodrigo-garro](https://github.com/user-attachments/assets/84b95e8b-2f7f-47e3-8826-042a0167fc75)
